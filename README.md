@@ -8,16 +8,6 @@
 ## 🌍 Background  
 🚀 The demand for data analysts continues to grow, with companies prioritizing skills in **data manipulation**, **visualization**, and **cloud technologies**. This analysis leverages job posting data to uncover salary trends, skill requirements, and geographical variations in the **U.S.** and **Egypt**.  
 
---- 
-
-## 🛠 Tools I Used  
-- **📁 SQL** for data querying and aggregation.  
-- **🐍 Python** (Pandas, NumPy) for data processing.  
-- **📊 Tableau & Power BI** for visualization.  
-- **⚡ Big Data Tools**: Spark, Hadoop, Snowflake.  
-- **☁ Cloud Platforms**: AWS, Azure, Databricks.  
-- **📌 Project Management**: Jira, Confluence.  
-
 ---
 
 ## 🔍 The Analysis  
