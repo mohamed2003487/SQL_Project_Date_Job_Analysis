@@ -50,18 +50,9 @@
 ---
 
 ## 📚 What I Learned  
-1. **🎯 Core Skills Dominate**: SQL and Python remain foundational for data roles globally.  
-2. **☁ Cloud & Big Data**: Expertise in AWS, Azure, and tools like Spark significantly boosts earning potential.  
-3. **🌍 Regional Variations**:  
-   - **🇪🇬 Egypt** emphasizes Excel and BI tools (Power BI).  
-   - **🇺🇸 U.S.** prioritizes cloud platforms and distributed computing (Hadoop, Spark).  
-4. **📊 Visualization Matters**: Tableau and Power BI are critical for translating data into business insights.  
+1. **🔍 SQL Mastery**: Focused exclusively on **SQL** for this project, mastering key techniques:  
+   - **🔄 Joins**: Effectively used **LEFT JOIN** and **INNER JOIN** to combine datasets.  
+   - **📑 CTEs (Common Table Expressions)**: Streamlined complex queries for better readability and modular analysis.  
+2. **📊 Data Structuring**: Learned to organize and query relational data efficiently.  
+3. **🎯 Practical Application**: Applied SQL skills to derive actionable insights from raw job market data.  
 
----
-
-## 🏁 Conclusions  
-1. **🎓 Skill Development**: Focus on **📁 SQL**, **🐍 Python**, and at least one **📊 visualization tool** (Tableau/Power BI).  
-2. **☁ Cloud Proficiency**: Learn **AWS** or **Azure** to stay competitive in high-paying markets like the U.S.  
-3. **🌍 Regional Adaptation**: Tailor skill sets to geographical demands (e.g., **📂 Excel** in Egypt, **🔥 Spark** in the U.S.).  
-
-🔗 **Next Steps**: Explore advanced certifications in **☁ cloud platforms** or **⚡ big data tools** to maximize career growth!  
